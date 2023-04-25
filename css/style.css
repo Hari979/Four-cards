@@ -156,6 +156,33 @@ h2 {
     float: right;
     padding: 10px;
 }
+
+#footer {
+    text-align: center;
+}
+
+.footer-button {
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 2%;
+}
+
+.fa-facebook:hover {
+    color: yellowgreen;
+}
+
+.fa-twitter:hover {
+    color: yellowgreen;
+}
+
+.fa-instagram:hover {
+    color: yellowgreen;
+}
+
+.fa-reddit:hover {
+    color: yellowgreen;
+}
 @media (max-width: 1250px) {
     .container {
         flex-direction: column;
